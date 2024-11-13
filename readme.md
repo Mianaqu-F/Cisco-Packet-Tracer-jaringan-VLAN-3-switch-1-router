@@ -6,7 +6,6 @@ Repository ini berisi file simulasi jaringan Cisco Packet Tracer dengan konfigur
 
 1. Nama File: jaringan VLAN 3 switch 1 router.pkt
 2. Konfigurasi:
-
 - Jumlah VLAN: 3 VLAN berbeda yang diimplementasikan untuk memisahkan segmen jaringan.
 - Jumlah Switch: 3 switch yang terhubung untuk membentuk jaringan yang tersegmentasi.
 - Router: 1 router digunakan untuk menghubungkan dan memungkinkan komunikasi antar-VLAN.
