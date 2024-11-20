@@ -37,4 +37,4 @@ git clone https://github.com/Archemis07/nama-repo.git
 - Kustomisasi Routing: Eksperimen dengan berbagai protokol routing untuk memahami cara optimal routing antar-VLAN.
 
 Tutorial Youtube
-[YoutubeT](https://youtu.be/DDRbhIQ7OPc)
+[Youtube](https://youtu.be/DDRbhIQ7OPc)
