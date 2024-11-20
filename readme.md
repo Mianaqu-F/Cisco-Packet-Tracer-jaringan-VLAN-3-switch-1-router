@@ -35,3 +35,6 @@ git clone https://github.com/Archemis07/nama-repo.git
 
 - Pengaturan VLAN Tambahan: Tambahkan atau modifikasi VLAN sesuai kebutuhan untuk melihat pengaruhnya pada segmentasi jaringan.
 - Kustomisasi Routing: Eksperimen dengan berbagai protokol routing untuk memahami cara optimal routing antar-VLAN.
+
+Tutorial Youtube
+[YoutubeT](https://youtu.be/DDRbhIQ7OPc)
